@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio01</string>
+    <string name="main_txtVwName">Nombre</string>
+    <string name="main_txtVwSurname">Apellidos</string>
+    <string name="main_btnSaludar">Saludar</string>
+    <string name="main_politeMode">Educado</string>
+    <string name="main_polite">Buenos días%1$s%2$s</string>
+    <string name="main_impolite">¡Ey! ¿Qué pasa%1$s%2$s?</string>
+    <string name="main_btnReset">Resetear</string>
+</resources>
